@@ -1,1 +1,1 @@
-With this project I will demonstrate my skills on HTML.
+With this project I have demonstrated my skills on HTML.
